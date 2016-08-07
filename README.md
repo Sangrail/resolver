@@ -1,4 +1,8 @@
+
+
 ### DESCRIPTION
+
+See [this](http://richardmiller.co.uk/2011/07/07/dependency-injection-moving-from-basics-to-container/)
 
 This is a simple dependency resolver for C++, which allows you to use the inversion of control (IoC) pattern in your applications.
 The project started as a [blog entry](http://weblambdazero.blogspot.com/2013/08/dependency-injection-in-c.html).
